@@ -1,0 +1,5 @@
+*.vdf
+__pycache__/
+json/*.json
+wip.py
+*.vdf.new
