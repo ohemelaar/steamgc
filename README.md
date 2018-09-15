@@ -1,4 +1,4 @@
-# Steam Genres Categorization
+# Steam Games Categorizer
 
 A Python script that fetches info about your Steam games and then generates tags accordingly.
 
